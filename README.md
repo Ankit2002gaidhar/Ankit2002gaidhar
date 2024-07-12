@@ -30,7 +30,8 @@ I am passionate about Machine Learning ,Data Analysis ,Coding ,exploring and lea
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-388E3C?style=for-the-badge&logo=seaborn&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
+![PyTorch](https://img.shields.io/badge/PyTorch-388E3C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-007396?style=for-the-badge&logo=nlp&logoColor=white)
 
 ## 🚀Projects
 -  [**Superstore Sales Analysis**](https://github.com/Ankit2002gaidhar/Superstore-Sales-Analysis)- A Sales dashboard build with help of PowerBi to analyze sales of products in particular region
