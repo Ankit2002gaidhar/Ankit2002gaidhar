@@ -3,6 +3,8 @@
 I am Ankit Gaidhar✨, a Data Science enthusiast currently pursuing B.Tech in Computer Science and Engineering (Data Science) at Ramdeobaba University . 
 I am passionate about Machine Learning ,Data Analysis ,Coding ,exploring and learning new technologies .
 
+![Profile Views](https://komarev.com/ghpvc/?username=Ankit2002gaidhar)
+
 ## 🔭 I’m currently working on ...
 -  Enhancing my skills in Machine Learning and Deep Learning .
 -  Working on PowerBi, Tableaue, Sql,Excel.
@@ -50,6 +52,13 @@ I am passionate about Machine Learning ,Data Analysis ,Coding ,exploring and lea
 -   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](www.linkedin.com/in/ankit-gaidhar-54763322b)
 -   [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://x.com/Arjun5268371544)
 -   [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:ankitgaidhar9696@gmail.com)
+
+
+## 📊 GitHub Stats
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankit2002gaidhar&show_icons=true&theme=radical)
+
+## 🌟 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit2002gaidhar&layout=compact&theme=radical)
 
 
 ## ⚡ Fun fact: ...
