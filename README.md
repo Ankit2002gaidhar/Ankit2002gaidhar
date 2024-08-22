@@ -61,6 +61,11 @@ I am passionate about Machine Learning ,Data Analysis ,Coding ,exploring and lea
 ## 🌟 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit2002gaidhar&layout=compact&theme=radical)
 
+## 🔥 Streak Stats
+![Ankit's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ankit2002gaidhar&theme=radical)
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ankit2002gaidhar&theme=radical&column=7)
 
 ## ⚡ Fun fact: ...
 --> I love to visualize things and in free time I play Fc Mobile . 
