@@ -37,11 +37,9 @@ I am passionate about Machine Learning ,Data Analysis ,Coding ,exploring and lea
 ![NLP](https://img.shields.io/badge/NLP-007396?style=for-the-badge&logo=nlp&logoColor=white)
 
 ## 🚀Projects
--  [**Superstore Sales Analysis**](https://github.com/Ankit2002gaidhar/Superstore-Sales-Analysis)- A Sales dashboard build with help of PowerBi to analyze sales of products in particular region
-   as well as forecasting of sales  in 15 to 20 days.
+-  [**Sales and Customer Analysis Dashboard**](https://github.com/Ankit2002gaidhar/Sales-and-Customer-Analysis-DashBoard)- This project features two interactive Tableau dashboards designed to provide comprehensive insights into sales and customer data. The dashboards aim to support better decision-making and strategic planning by visualizing key metrics and trends.
 -  [**ParkPro**](https://github.com/Ankit2002gaidhar/PARKPRO) - An efficient and user-friendly parking solution that enhance parking in  crowded public areas.
--  [**Lung Cancer Prediction**](https://github.com/Ankit2002gaidhar/Lung-Cancer-Prediction) - A model based on machine learning and deep learning for the  prediction of lung cancer based on
-    pulmonary nodules detected in CT scans.
+-  [**Lung Cancer Prediction**](https://github.com/Ankit2002gaidhar/Lung-Cancer-Prediction) - A model based on machine learning and deep learning for the  prediction of lung cancer based on pulmonary nodules detected in CT scans.
 
 ## 💻 Coding Platforms 
 -  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black&style=flat-square)](https://leetcode.com/u/AnkitGaidhar2002/)
